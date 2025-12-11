@@ -1,0 +1,46 @@
+name: Grading
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  grading-test:
+    runs-on: ubuntu-latest
+    env:
+      PROBLEM: 6
+      COURSE_ID: 50060
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+          submodules: false
+      - name: Configure git repository
+        run: git config --global --add safe.directory $GITHUB_WORKSPACE
+      - name: Show submodule updated
+        run: git diff --name-only HEAD^
+      - name: Fetch updated submodule
+        run: |
+          ./scripts/fetch_submodule.sh --auth PAT --submodule "${{ env.PROBLEM }}-grading-tests"
+          ./scripts/fetch_submodule.sh --auth PAT --submodule "$(git diff --name-only HEAD^)"
+          ./scripts/fetch_submodule.sh --auth PAT --submodule students-list
+        env:
+          AUTH_TOKEN: ${{ secrets.GH_DB_TOKEN }}
+      - name: Check repository clean
+        run: "./${{ env.PROBLEM }}-grading-tests/scripts/check_clean.sh"
+        timeout-minutes: 1
+      - name: Build and test
+        run: "./${{ env.PROBLEM }}-grading-tests/scripts/test.sh"
+        timeout-minutes: 1
+      - name: Send solution to HwProj
+        run: |
+          ./scripts/submit_solution.sh \
+            --course "${{ env.COURSE_ID }}" \
+            --task "Задача ${{ env.PROBLEM }}" \
+            --logins ./students-list/students.csv \
+            --problem "${{ env.PROBLEM }}" \
+            --owner "${{ github.repository_owner }}" \
+            --submodule "$(git diff --name-only HEAD^)" \
+            --ci
+        env:
+          HWPROJ_AUTH_TOKEN: ${{ secrets.HWPROJ_TOKEN }}

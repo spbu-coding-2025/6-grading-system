@@ -1,0 +1,6 @@
+[submodule "6-grading-tests"]
+	path = 6-grading-tests
+	url = git@github.com:spbu-coding-2025/6-grading-tests.git
+[submodule "students-list"]
+	path = students-list
+	url = git@github.com:spbu-coding-2025/students-list.git
