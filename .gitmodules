@@ -68,3 +68,7 @@
 	path = 6-liptonn405
 	url = https://github.com/spbu-coding-2025/6-liptonn405.git
 	branch = main
+[submodule "6-meow79"]
+	path = 6-meow79
+	url = https://github.com/spbu-coding-2025/6-meow79.git
+	branch = main
