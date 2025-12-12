@@ -20,3 +20,7 @@
 	path = 6-AndyBarnv
 	url = https://github.com/spbu-coding-2025/6-AndyBarnv.git
 	branch = main
+[submodule "6-DenisPotapov0"]
+	path = 6-DenisPotapov0
+	url = https://github.com/spbu-coding-2025/6-DenisPotapov0.git
+	branch = main
