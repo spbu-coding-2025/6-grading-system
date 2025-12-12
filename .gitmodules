@@ -4,3 +4,7 @@
 [submodule "students-list"]
 	path = students-list
 	url = git@github.com:spbu-coding-2025/students-list.git
+[submodule "6-A-Sozonov"]
+	path = 6-A-Sozonov
+	url = https://github.com/spbu-coding-2025/6-A-Sozonov.git
+	branch = main
