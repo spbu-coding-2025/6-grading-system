@@ -32,3 +32,7 @@
 	path = 6-Lizavod
 	url = https://github.com/spbu-coding-2025/6-Lizavod.git
 	branch = main
+[submodule "6-Makuhin-Egor"]
+	path = 6-Makuhin-Egor
+	url = https://github.com/spbu-coding-2025/6-Makuhin-Egor.git
+	branch = main
