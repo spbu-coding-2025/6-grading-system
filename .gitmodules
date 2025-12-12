@@ -36,3 +36,7 @@
 	path = 6-Makuhin-Egor
 	url = https://github.com/spbu-coding-2025/6-Makuhin-Egor.git
 	branch = main
+[submodule "6-RannyayaAnastasia"]
+	path = 6-RannyayaAnastasia
+	url = https://github.com/spbu-coding-2025/6-RannyayaAnastasia.git
+	branch = main
