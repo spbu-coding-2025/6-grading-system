@@ -52,3 +52,7 @@
 	path = 6-arinamklvch
 	url = https://github.com/spbu-coding-2025/6-arinamklvch.git
 	branch = main
+[submodule "6-danisaev"]
+	path = 6-danisaev
+	url = https://github.com/spbu-coding-2025/6-danisaev.git
+	branch = main
