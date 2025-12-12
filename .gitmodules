@@ -24,3 +24,7 @@
 	path = 6-DenisPotapov0
 	url = https://github.com/spbu-coding-2025/6-DenisPotapov0.git
 	branch = main
+[submodule "6-LinaraSun"]
+	path = 6-LinaraSun
+	url = https://github.com/spbu-coding-2025/6-LinaraSun.git
+	branch = main
