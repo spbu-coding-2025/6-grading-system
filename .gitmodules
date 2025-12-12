@@ -60,3 +60,7 @@
 	path = 6-e-leshnik
 	url = https://github.com/spbu-coding-2025/6-e-leshnik.git
 	branch = main
+[submodule "6-estoniec"]
+	path = 6-estoniec
+	url = https://github.com/spbu-coding-2025/6-estoniec.git
+	branch = main
