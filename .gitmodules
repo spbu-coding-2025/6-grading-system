@@ -8,3 +8,7 @@
 	path = 6-A-Sozonov
 	url = https://github.com/spbu-coding-2025/6-A-Sozonov.git
 	branch = main
+[submodule "6-AleksAndr1038"]
+	path = 6-AleksAndr1038
+	url = https://github.com/spbu-coding-2025/6-AleksAndr1038.git
+	branch = main
