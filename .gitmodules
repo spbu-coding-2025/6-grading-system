@@ -64,3 +64,7 @@
 	path = 6-estoniec
 	url = https://github.com/spbu-coding-2025/6-estoniec.git
 	branch = main
+[submodule "6-liptonn405"]
+	path = 6-liptonn405
+	url = https://github.com/spbu-coding-2025/6-liptonn405.git
+	branch = main
