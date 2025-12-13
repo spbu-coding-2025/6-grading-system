@@ -112,3 +112,7 @@
 	path = 6-Prosto-Dan
 	url = https://github.com/spbu-coding-2025/6-Prosto-Dan.git
 	branch = main
+[submodule "6-Vlm326"]
+	path = 6-Vlm326
+	url = https://github.com/spbu-coding-2025/6-Vlm326.git
+	branch = main
