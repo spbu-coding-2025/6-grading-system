@@ -100,3 +100,7 @@
 	path = 6-LeoN192
 	url = https://github.com/spbu-coding-2025/6-LeoN192.git
 	branch = main
+[submodule "6-Maxdess067"]
+	path = 6-Maxdess067
+	url = https://github.com/spbu-coding-2025/6-Maxdess067.git
+	branch = main
