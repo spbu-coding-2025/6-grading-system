@@ -108,3 +108,7 @@
 	path = 6-Maxllon
 	url = https://github.com/spbu-coding-2025/6-Maxllon.git
 	branch = main
+[submodule "6-Prosto-Dan"]
+	path = 6-Prosto-Dan
+	url = https://github.com/spbu-coding-2025/6-Prosto-Dan.git
+	branch = main
