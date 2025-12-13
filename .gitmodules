@@ -116,3 +116,7 @@
 	path = 6-Vlm326
 	url = https://github.com/spbu-coding-2025/6-Vlm326.git
 	branch = main
+[submodule "6-agresh775"]
+	path = 6-agresh775
+	url = https://github.com/spbu-coding-2025/6-agresh775.git
+	branch = main
