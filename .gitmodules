@@ -120,3 +120,7 @@
 	path = 6-agresh775
 	url = https://github.com/spbu-coding-2025/6-agresh775.git
 	branch = main
+[submodule "6-alferukn"]
+	path = 6-alferukn
+	url = https://github.com/spbu-coding-2025/6-alferukn.git
+	branch = main
