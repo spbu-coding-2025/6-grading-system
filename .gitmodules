@@ -92,3 +92,7 @@
 	path = 6-IvRevver
 	url = https://github.com/spbu-coding-2025/6-IvRevver.git
 	branch = main
+[submodule "6-KrimPast"]
+	path = 6-KrimPast
+	url = https://github.com/spbu-coding-2025/6-KrimPast.git
+	branch = main
