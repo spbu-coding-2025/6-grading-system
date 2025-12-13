@@ -136,3 +136,7 @@
 	path = 6-kevetka
 	url = https://github.com/spbu-coding-2025/6-kevetka.git
 	branch = main
+[submodule "6-lupusarqentum"]
+	path = 6-lupusarqentum
+	url = https://github.com/spbu-coding-2025/6-lupusarqentum.git
+	branch = main
