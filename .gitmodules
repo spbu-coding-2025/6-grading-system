@@ -76,3 +76,7 @@
 	path = 6-narysh
 	url = https://github.com/spbu-coding-2025/6-narysh.git
 	branch = main
+[submodule "6-Brulevich-Nikita"]
+	path = 6-Brulevich-Nikita
+	url = https://github.com/spbu-coding-2025/6-Brulevich-Nikita.git
+	branch = main
