@@ -80,3 +80,7 @@
 	path = 6-Brulevich-Nikita
 	url = https://github.com/spbu-coding-2025/6-Brulevich-Nikita.git
 	branch = main
+[submodule "6-Ganesha1967"]
+	path = 6-Ganesha1967
+	url = https://github.com/spbu-coding-2025/6-Ganesha1967.git
+	branch = main
