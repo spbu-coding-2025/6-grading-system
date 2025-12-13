@@ -84,3 +84,7 @@
 	path = 6-Ganesha1967
 	url = https://github.com/spbu-coding-2025/6-Ganesha1967.git
 	branch = main
+[submodule "6-Iseyne"]
+	path = 6-Iseyne
+	url = https://github.com/spbu-coding-2025/6-Iseyne.git
+	branch = main
