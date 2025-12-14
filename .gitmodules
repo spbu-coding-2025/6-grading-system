@@ -144,3 +144,7 @@
 	path = 6-dem0phob1a
 	url = https://github.com/spbu-coding-2025/6-dem0phob1a.git
 	branch = main
+[submodule "6-e4d08"]
+	path = 6-e4d08
+	url = https://github.com/spbu-coding-2025/6-e4d08.git
+	branch = main
