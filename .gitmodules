@@ -152,3 +152,7 @@
 	path = 6-kijexs
 	url = https://github.com/spbu-coding-2025/6-kijexs.git
 	branch = main
+[submodule "6-polka777"]
+	path = 6-polka777
+	url = https://github.com/spbu-coding-2025/6-polka777.git
+	branch = main
