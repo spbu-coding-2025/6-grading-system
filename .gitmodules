@@ -148,3 +148,7 @@
 	path = 6-e4d08
 	url = https://github.com/spbu-coding-2025/6-e4d08.git
 	branch = main
+[submodule "6-kijexs"]
+	path = 6-kijexs
+	url = https://github.com/spbu-coding-2025/6-kijexs.git
+	branch = main
