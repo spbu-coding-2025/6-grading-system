@@ -164,3 +164,7 @@
 	path = 6-davidgordievskij07-cmd
 	url = https://github.com/spbu-coding-2025/6-davidgordievskij07-cmd.git
 	branch = main
+[submodule "6-qwerty787878"]
+	path = 6-qwerty787878
+	url = https://github.com/spbu-coding-2025/6-qwerty787878.git
+	branch = main
