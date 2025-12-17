@@ -168,3 +168,7 @@
 	path = 6-qwerty787878
 	url = https://github.com/spbu-coding-2025/6-qwerty787878.git
 	branch = main
+[submodule "6-wydfiy"]
+	path = 6-wydfiy
+	url = https://github.com/spbu-coding-2025/6-wydfiy.git
+	branch = main
