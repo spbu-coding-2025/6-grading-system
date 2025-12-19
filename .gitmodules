@@ -172,3 +172,7 @@
 	path = 6-wydfiy
 	url = https://github.com/spbu-coding-2025/6-wydfiy.git
 	branch = main
+[submodule "6-AlexeyMashkovichUniWork"]
+	path = 6-AlexeyMashkovichUniWork
+	url = https://github.com/spbu-coding-2025/6-AlexeyMashkovichUniWork.git
+	branch = main
