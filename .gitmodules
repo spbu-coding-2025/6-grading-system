@@ -180,3 +180,7 @@
 	path = 6-ButyugovMxx
 	url = https://github.com/spbu-coding-2025/6-ButyugovMxx.git
 	branch = main
+[submodule "6-tzubenin"]
+	path = 6-tzubenin
+	url = https://github.com/spbu-coding-2025/6-tzubenin.git
+	branch = main
