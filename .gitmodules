@@ -184,3 +184,7 @@
 	path = 6-tzubenin
 	url = https://github.com/spbu-coding-2025/6-tzubenin.git
 	branch = main
+[submodule "6-LuhTonkaYeat"]
+	path = 6-LuhTonkaYeat
+	url = https://github.com/spbu-coding-2025/6-LuhTonkaYeat.git
+	branch = main
