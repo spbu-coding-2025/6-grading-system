@@ -196,3 +196,7 @@
 	path = 6-rpu3Jlu616
 	url = https://github.com/spbu-coding-2025/6-rpu3Jlu616.git
 	branch = main
+[submodule "6-Esoteria11"]
+	path = 6-Esoteria11
+	url = https://github.com/spbu-coding-2025/6-Esoteria11.git
+	branch = main
