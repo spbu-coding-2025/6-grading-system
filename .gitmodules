@@ -200,3 +200,7 @@
 	path = 6-Esoteria11
 	url = https://github.com/spbu-coding-2025/6-Esoteria11.git
 	branch = main
+[submodule "6-aleksandrgarin"]
+	path = 6-aleksandrgarin
+	url = https://github.com/spbu-coding-2025/6-aleksandrgarin.git
+	branch = main
